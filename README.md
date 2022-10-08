@@ -1,2 +1,2 @@
 # test
-test ripo
+test ripo of   file have  a  lincence based on device lookup demanding 
